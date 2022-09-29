@@ -1,8 +1,13 @@
-img {
-    max-height: 100%;
+body {
+    background-color: rgb(196, 158, 202) !important;
 }
+
 .card {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
+    margin-top: 2rem;
+}
+
+.btn {
+    margin-left: auto;
 }
